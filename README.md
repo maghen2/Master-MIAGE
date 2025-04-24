@@ -1,8 +1,9 @@
-# Master MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)
+# [Master MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)](https://www.miage.fr/licence-master-miage/)
 
 Le [Master](https://fr.wikipedia.org/wiki/Master_(France) "Master (France)") **MIAGE** (**M**éthodes **I**nformatiques **A**ppliquées à la **G**estion des **E**ntreprises) est un diplôme universitaire français de niveau [bac](https://fr.wikipedia.org/wiki/Baccalaur%C3%A9at_en_France "Baccalauréat en France")+5, alliant une double compétence en [sciences du numérique](https://fr.wikipedia.org/wiki/Sciences_du_num%C3%A9rique "Sciences du numérique") et en [sciences du management](https://fr.wikipedia.org/wiki/Sciences_du_management "Sciences du management"), destiné à former des [cadres d'entreprise](https://fr.wikipedia.org/wiki/Cadre_(entreprise) "Cadre (entreprise)") experts en [ingénierie](https://fr.wikipedia.org/wiki/Ing%C3%A9nierie "Ingénierie") et [management](https://fr.wikipedia.org/wiki/Management_du_syst%C3%A8me_d%27information "Management du système d'information") des [systèmes d'information](https://fr.wikipedia.org/wiki/Syst%C3%A8mes_d%27information "Systèmes d'information").
 
 🎓 **Master MIAGE : Sciences du Numérique et du Management**
+
 Ce dépôt GitHub présente une sélection de projets, travaux pratiques et codes sources réalisés dans le cadre de ma formation Master Méthodes Informatiques Appliquées à la Gestion des Entreprises (MIAGE) à l'Université de Bordeaux.
 
 Le Master MIAGE est un diplôme universitaire français de niveau Bac+5 reconnu pour sa **double compétence unique** en **sciences du numérique** et **sciences du management**. Il forme des experts capables de concevoir, développer, manager et faire évoluer les systèmes d'information au service de la stratégie et des processus métier de l'entreprise.
@@ -159,16 +160,13 @@ Voici une liste non exhaustive des technologies, langages et outils que j'ai eu 
 * **Systèmes d'Exploitation :** Windows, Linux (commandes de base, administration).
 * **Autres :** HTML5, CSS3, REST APIs, Postman, [Ajoutez des ERPs/CRM si utilisés, des outils BI, etc.]
 
-*(Optionnel : Vous pouvez ajouter des badges pour les technologies pour rendre le README plus visuel. Des sites comme shields.io permettent de générer des badges.)*
-Exemple de badge : `![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)`
-
 ## 🚀 Comment Explorer ce Dépôt
 
 Pour consulter le code et les documents des projets :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/](https://github.com/)[VotreNomUtilisateur]/[NomDuDépôt].git
+    git clone https://github.com/maghen2/Master-MIAGE/tree/main.git
     ```
 2.  **Naviguer dans les dossiers :** Explorez les dossiers `M1` et `M2` pour découvrir les différents projets.
 3.  **Consulter les READMEs spécifiques :** Chaque projet significatif possède son propre fichier `README.md` détaillant son contenu et les instructions spécifiques (installation, exécution, etc.).
@@ -177,15 +175,15 @@ Pour consulter le code et les documents des projets :
 
 Je suis ouvert aux discussions concernant mes projets, ma formation MIAGE ou d'éventuelles opportunités professionnelles.
 
-* **LinkedIn :** [Lien vers votre profil LinkedIn]
-* **Email :** [Votre adresse email]
-* **Votre site web personnel (Optionnel) :** [Lien vers votre site]
+* **LinkedIn :** [http://www.linkedin.com/in/MaghenNegouRostandMarketing]
+* **Email :** maghen2@gmail.com
+* **Votre site web personnel (blog) :** [https://maghennegourostandmarketing.over-blog.com/2019/11/rostant-maghen-negou-biographie-d-un-enfant-du-ghetto-qui-ne-manquait-pas-d-ambition.html]
 
 N'hésitez pas à me contacter !
 
 ## 📄 Licence
 
-Ce dépôt est sous licence [Choisissez une licence, par exemple MIT]. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce dépôt est sous licence. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
 
